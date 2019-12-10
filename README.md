@@ -1,2 +1,2 @@
 # Simple-Calculator
-Please visit https://kagamiz.com/uestc-simple-calculator/ for details.
+Please visit https://kagamiz.com/simple-calculator/ for details.
